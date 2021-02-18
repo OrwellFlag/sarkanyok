@@ -27,3 +27,6 @@ body{
     font-style: italic;
     float: right;
 }
+p{
+    text-align:justify;
+}
