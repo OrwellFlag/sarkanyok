@@ -22,3 +22,8 @@ body{
     background-image: url(hatterkep.jpg);
     font-family: sans-serif;
 }
+.forras{
+    font-size: 10px;
+    font-style: italic;
+    float: right;
+}
